@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Keep JK-Grade 8 at Woodroffe Ave. P.S."
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
-url                      : "http://savewps.ca" # the base hostname & protocol for your site
+url                      : "https://savewps.ca" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "perstarke-webdev/oneflow-jekyll-theme" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
